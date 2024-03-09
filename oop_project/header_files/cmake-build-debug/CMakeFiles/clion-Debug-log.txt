@@ -1,0 +1,4 @@
+/home/rayhan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/rayhan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/ninja/linux/x64/ninja -G Ninja -S "/mnt/UNI/Semester 02/OOP Lab/OOP Lab Task 09/untitled" -B "/mnt/UNI/Semester 02/OOP Lab/OOP Lab Task 09/untitled/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/UNI/Semester 02/OOP Lab/OOP Lab Task 09/untitled/cmake-build-debug

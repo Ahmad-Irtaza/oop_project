@@ -1,0 +1,3 @@
+C:/BUTT/cmake-build-debug/CMakeFiles/BUTT.dir
+C:/BUTT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/BUTT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
